@@ -1,0 +1,15 @@
+{
+  "name": "Nestable",
+  "homepage": "https://github.com/Mobius1/Nestable",
+  "version": "0.0.6",
+  "_release": "0.0.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.6",
+    "commit": "175d361c6438137ea30e1ef3244ca7cd82e536ac"
+  },
+  "_source": "https://github.com/Mobius1/Nestable.git",
+  "_target": "^0.0.6",
+  "_originalSource": "Mobius1/Nestable",
+  "_direct": true
+}
